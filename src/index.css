@@ -1,13 +1,16 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cairo:wght@200&family=Montserrat:wght@200&display=swap');
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+body 
+{background:#000 !important; color:#FFF !important;}
+
+h1,h2, h4, h6 
+{font-family: 'Abril Fatface', cursive;}
+
+.navbar 
+{background-color: #121212 !important;}
+
+.navbar a 
+{font-family: 'Abril Fatface', cursive;}
+
+h6 {color:#FFF ;}
+P {color:#b5b5b5;}
