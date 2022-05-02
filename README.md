@@ -1,3 +1,5 @@
+[View Live Site](https://movies-app5.netlify.app/)
+
 <img src="https://github.com/EhabEmad9599/movies-app/blob/master/home.png">
 <img src="https://github.com/EhabEmad9599/movies-app/blob/master/movieDetails.png">
 <img src="https://github.com/EhabEmad9599/movies-app/blob/master/notFoundPage.png">
