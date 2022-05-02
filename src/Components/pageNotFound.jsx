@@ -12,9 +12,9 @@ const PageNotFound = () => {
       <h2>404 - Page Not Found</h2>
       <p>The page you're looking for isn't here</p>
       <button
-        onClick={() => Navigate("/")}
+        onClick={() => Navigate("/home")}
         type="button"
-        class="btn btn-outline-secondary">Back To Home</button>
+        className="btn btn-outline-secondary">Back To Home</button>
     </section>
   );
 };

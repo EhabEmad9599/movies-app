@@ -31,6 +31,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={<Home movieDetails={movieDetails} trendingMovies={movies} />}/>
+          <Route path="/home" element={<Home movieDetails={movieDetails} trendingMovies={movies} />}/>
           <Route path="/MovieInfo/:id" element={<MovieInfo movieInfo={movieInfo} />}/>
           <Route path="*" element={<PageNotFound />} />
         </Routes>

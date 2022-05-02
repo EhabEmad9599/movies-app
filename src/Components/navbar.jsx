@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container">
-        <Link to="/" style={{ color: "#FFF", fontSize: "1.5rem", textDecoration: "none" }}>
+        <Link to="/home" style={{ color: "#FFF", fontSize: "1.5rem", textDecoration: "none" }}>
           Movies +
         </Link>
       </div>
