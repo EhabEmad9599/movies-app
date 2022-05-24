@@ -25,7 +25,7 @@ function Home({ trendingMovies, movieDetails }) {
                 <img
                   className="w-100 pt-4"
                   src={`https://image.tmdb.org/t/p/w500` + movie.poster_path}
-                  alt={movie.poster_path}
+                  alt={movie.title}
                 />
                 <h6 className="mt-3">
                   {movie.title}
